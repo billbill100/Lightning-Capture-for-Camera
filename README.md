@@ -8,6 +8,10 @@ Using a battery powered processor, complete with built in-charger and off-the-sh
 
 A little soldering skill is required, as is a bit of computer skill to load the firmware onto the device, but there are how-to guides for each step and a user forum on Photrio.
 
+There are two versions that can be built.
+The full version includes an Oled display, with parameters that can be changed.
+A basic model, with minimam components, that just works using the default parameters.
+
 Now the caveat. The device has been built & tested and it works great indoors. However there has yet to be thunderstorm to test it in the real world. As soon as a suitable storm blows through, I will be running outsideto fully test the device.
 
-This is a new project, so documentation and the code will appear over the coming weeks. There is enough here to get started and order the parts. Much of the documentaion will be the same as in my other projects, downloading and installing the firmware, for example, so take a look at my other projects to see what is involved.
+This is a new project, so documentation may change over the coming weeks.
